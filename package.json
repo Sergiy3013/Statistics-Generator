@@ -1,0 +1,21 @@
+{
+  "name": "1123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Sergiy3013",
+  "license": "ISC",
+  "dependencies": {
+    "chart": "^0.1.2",
+    "chartjs-node-canvas": "^4.1.6",
+    "chart.js": "^3.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
